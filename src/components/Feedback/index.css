@@ -1,0 +1,25 @@
+/* Write your CSS code here. */
+.background {
+  background-image: linear-gradient(to right, #ffeeee, #ffebeb, #ffc0bb);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.background1 {
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 30px;
+}
+.head {
+  color: #0f172a;
+}
+.ul {
+  display: flex;
+  justify-content: space-around;
+}
+.head1 {
+  display: none;
+}

@@ -1,0 +1,11 @@
+.image {
+  height: 6vh;
+  width: 4vw;
+}
+.button {
+  background-color: #ffffff;
+  border-width: 0;
+}
+.para {
+  margin-left: 15px;
+}
